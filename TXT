@@ -1,1 +1,1 @@
-dnslink=/ipfs/QmRKjn3BN2tsxGULAwiYFbrr115cbGR3PCTjJ5GoLWALze
+_dnslink TXT dnslink=/ipfs/QmRKjn3BN2tsxGULAwiYFbrr115cbGR3PCTjJ5GoLWALze
